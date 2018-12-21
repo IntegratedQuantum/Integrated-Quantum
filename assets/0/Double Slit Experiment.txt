@@ -1,0 +1,19 @@
+﻿[t]During the time between the 18th and 19th century there were 2 different theorys about the nature of light: wave theory and particle. In 1801 far before quantum physics the english physicist Thomas Young who supported the wave theory invented an experiment to show that the wave theory was right: the double slit experiment.\
+
+The double slit experiment uses the phenomenon of diffraction: waves bend if they encounter an obstacle or a slit and create patterns depending on the shape of it and own wavelength. If the size of a slit equals to the wavelength, the wave will spread in a circular shape as shown below:\[\]
+[a]waveparticle[\]
+
+[t]In the double slit experiment there are 2 slits which both create the pattern above:\[\]
+[a]double[\]
+
+[t]These 2 waves interfere with each other. If you put a wall in a distance behind the slits, an interference pattern is created. The pattern changes if the distance to the wall or the distance between the 2 slits is changed. If you know the wave function which we will introduce later, you can calculate the intensity of light seen on the wall with its wave function:\[\]
+
+[f]I(x) = |Ψ(x)|^2[\]
+
+[t]The function graph would look like the picture in top of this app. This experiment proves that light behaves like a wave which is widely known. But what would happen if we use elctrons instead of light. In classical physics electron are particles. If we would perform the double slit experiment to a particle we would expect to see this:\[\]
+[a]doublep[\]
+
+[t]This is just a simple model which ignores molecular movement in particles of a temperature T > 0K. If we would perform this experiment to electrons we would see the interference pattern. So electrons have wave properties. This experiment can be performed for everything which is smaller than its wavelength and will create the same pattern. You might argue that behaviour might be the result of something like a sound wave through the electron. So we take only a single electron which is released in equal distance to both slits. It only seems possible that the electron goes either through one or the other slit and will hit the wall at one of 2 possible positions. But even the single electron creates the same pattern of interference. How is this possible?\
+Electrons must behave like waves and go through both slits to interfere with itself. But it comes even stranger: If we put a detector on the slits to detect the electron, the electron will hit the wall only at 2 positions. So if we observe where the electron is we determine its position which collapses the wave function and the electron acts like a particle while we observe it. After that a new wave function is created, but this function is created behind the slits so the wave cannot interfere with itself anymore.\
+The first time the experiment was executed with quantum physical properties (an electron beam) was 1927 by Clinton Davisson und Lester Germer who both won a physics nobel price.\
+In another chapter you can read about the calculation of the interference pattern. [\] 

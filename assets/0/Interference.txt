@@ -1,0 +1,25 @@
+﻿[t]If there are 2 waves of the same kind like 2 soundwaves or lightwaves they interfere with each other. Interference means that the wave functions of the wave are combined to the wave function of the whole system. Interference can simply being described as addition:[\]
+
+[f]Ψ_System  = Ψ_1 +Ψ_2 +...+Ψ_n [\]
+
+[t]n is the total number of light waves in the system which might change over time. In the following graphic you can see 2 waves (red and blue) with the functions[\]
+[f]Ψ_1  = sin(x)[\]
+[f]Ψ_2  = cos(x)[\]
+
+[t]and the wave function of the system(green) which is the addition of the waves:[\]
+[f]Ψ_System  = sin(x)+cos(x)[\]
+[p]0/interference1.png[\]
+
+[t]There are mainly 2 different kinds of intereference: constructive and destructive interference. Constructive means that the wave function of the system is bigger than than wave functions of the 2 single waves. Destructive interference means the two wave functions create a smaller wave function. In a special case the destructive interference can lead to a constant wave function of 0. This is the case if:[\]
+
+[f]0 = Ψ_1 +Ψ_2 +...+Ψ_n[\]
+
+[t]With 2 wave function that means:[\]
+
+[f]Ψ_1  = -Ψ_2 [\]
+
+[t]For example:[\]
+[f]sin(x) = -sin(x)[\]
+
+[t]The following graph shows this kind of destructive interference:[\]
+[p]0/interference2.png[\]

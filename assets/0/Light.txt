@@ -1,0 +1,18 @@
+﻿[t]Light is electromagnetic radiation of certain wavelengths. Visible light has wavelengths between 380 and 750 nm which applies to frequencies between 400 and 789 THz. Electromagnetic waves are oscillating magnetic and electric fields which are orthogonal to each other. These fields oscilate harmonic (like a sine/cosine wave). Electromagnetic waves are also particles (see "Wave Particle Dualism II"): photons. Photons are the force carriers of the electromagnetic force. A single photons has like an electron the ability to interfere with itself (see "Wave Particle Dualism I"). Light is quantized: It can only contain certain amounts of energy: 0, hf, 2hf,... where f is the frequency and h is plancks constant. This leads to the theory that light is delivered by particles (photons) which each contains the energy nhf (n being an integer number):[\]
+
+[f]E_photon  = hf[\]
+[f]E_photon  = {hc}/{λ}[\]
+
+[t]According to de Broglie the value momentum of a particle (e.g. the photon) is:[\]
+
+[f]p = {h}/{λ}[\]
+
+[t]So a photon contains a relativistic mass bigger than zero. The momentum of photons is needed for the concept of solar sailing (which was practical used first in 2010 on the space-probe IKAROS). The problem is that the relativistic mass m is:[\]
+[f]m = {m_0 }/{(1-v^2 c^-2 )^0.5 }[\]
+
+[t]m_0  is the mass of the object if its velocity equals to 0 known as rest mass. For photons m is:[\]
+[f]m = {m_0 }/{(1-c^2 c^-2 )^0.5 }[\]
+
+[f]m = {m_0 }/{0}[\]
+
+[t]For any rest mass bigger than 0 the mass is infinite and so is the momentum which is not observed. If the rest mass is 0 the mass and momentum cannot be determined, every possible finite value returns true. It's currently not directly proven if photons really have zero rest mas, but the mass of a photon is proven as smaller than 10⁻18 eV/c^2 .[\]

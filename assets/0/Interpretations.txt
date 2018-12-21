@@ -1,0 +1,15 @@
+﻿[t]The interpretations of quantum mechanics are concepts of how our world may work to result in a world that behaves like quantum physics describes.\
+
+The most accepted interpretation is the copenhagen interpretation which was formulated by Bohr and Heisenberg. The copenhagen interpretation says that a particle has only exact measurable position when its observed and the wave function collapses which creates a random value. While its not observed the particle is in a superposition of all possible states.\
+
+The many worlds interpretation is more deterministic. According to this interpretation everytime a wave collapses the hole universe splits into one for every possible state.\
+
+The ensemble or statistical interpretation states that the wave function doesn't apply to an individual system, but must apply to an ensemble of systems. The most famous supporter of this interpretation was Albert Einstein who said:\\
+
+²"The attempt to conceive the quantum-theoretical description as the complete description of the individual systems leads to unnatural theoretical interpretations, which become immediately unnecessary if one accepts the interpretation that the description refers to ensembles of systems and not to individual systems."²\\
+
+The De Broglie-Bohm theory is deterministic. It says that the wave function evolves instead of collapsing which guides the particle.\
+
+In de Broglies double solution theory there are 2 wave functions: One is statistical and the other guides the particle.\\
+
+There are many more interpretations, but these are the most important. It's unclear which interpretation is correct. So most of these interpretations are(at least partly) incorrect. The main reasion for this wide spectrum is that most experimental values do not describe a quantum system because observation of a quantum system always changes the system so that the final values are manipulated. Another reasion is that quantum mechanics is very complex and a persion who interprets quantum mechanics is not able to respect every aspect of quantum mechanics.[\]

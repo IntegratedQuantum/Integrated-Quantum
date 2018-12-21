@@ -1,0 +1,8 @@
+﻿[t]Spin is one of the properties particles have because they are particles, for every kind of particle there are a few spins the particle could have.\
+In 1922 Otto Stern and Walter Gerlach performed the Stern-Gerlach-Experiment. They created a beam of silver atoms, shot them between two magnets, a magnetic northpole (shaped like a cutting edge) and a southpole (shaped like a gutter). Those two magnets are like a spin separator in the experiment.\
+Because if you imagine an electron spinning/rotating, as a particle with charge, it creates something, which is close to a magnetic field.\
+They took silver (because silver has only one electron on the "outer ring", so the atom behaves like one electron, when you just look at the spin, but it has no charge, so it is not affected by the magnetic field in this way.\
+But the electron, as we have 3 dimensional space, should have three spins, one on each axis. And our spin separator only separates on one axis, the z-axis. And because of heisenberg's uncertainty principle we can't measure the spins on the other two axes.\
+And electrons either have a spin of ½ or -½. They are in a superposition. \
+The spin of electrons is the actual reason why there is magnetism. \
+You can read the spin of the elementary fermions on the standard model "map", but they are all half-integer. And also the composite of them are called fermions and have half-integer spins. All known bosons have a spin of 1 excluding the Higgs boson which has a spin of 0.[\]

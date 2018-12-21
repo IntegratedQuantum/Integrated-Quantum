@@ -1,0 +1,21 @@
+﻿[t]A black body is a theoretical object which absorbs all the incident electromagnetic radiation. This naturally heats up the body, to lower the temperature again the body emits electomagnetic radiation (visible and infrared). By the loss of the energy the body cools down again. There is a pretty easy formula to calculate the radiance with the position (where the "beam" got emitted), the direction of the radiation and the wavelength:[\]
+	[f]L(λ, T) = {8πhc}/{λ^5 *(e^hc/λkT -1)}[\]
+h=6.626*10^-34 Js \
+c represents the speed of light, c=299792.458 kms^-1 \
+λ is the wavelength. Every color has its own spectrum of wavelengths. \
+k is the Boltzmann constant, named after Ludwig Boltzmann, k=1.381*10^-23 J K^-1 \
+T is the absolute temperature of the system in K \
+[t]The formula is pretty easy but it still consists quantum physical objects like the planck constant h. \
+In fact the phenomena of the black body radiation was the first to ever use the planck constant. [\]
+	[f]E = h*f[\]
+[t]That is the common use of the planck constant.\
+The radiance itself is given in Wm^-3 sr^-1 , but only the position, where the light gets emitted, and the direction of the emitted light is given in the unit steradian (sr). The radiance describes the power of light which is emitted by an area. If you dissolve the equation to SI-units you get to know, that its just Wm^-3 , but what about the steradian? Luckily the steradian in SI-Units is just 1 m^2 /m^2 . In other words nothing. \
+The emission power of the black body is the highest of all objects at the same temperature. The following graph shows the function L(λ, T) where you can change the temperature to any integer value between 0k and 9999K(notice: the graph grows with the factor T^4 ):[\]
+[d]0[\]
+[t]The moment in which planck created this law is considered the birth of quantum theory.
+Before there was the Rayleigh-Jeans-Law -classical mechanics- but if the black body has to absorb ultra violet radiation the Rayleigh-Jeans-Law is wrong. \
+Planck's idea was it that energy can not be transmitted continously but it has to be transmitted in small steps. Those steps are called "quantums" (latin: "how much/big").\
+And because we can not continously transfer energy like we need in the Rayleigh-Jeans-Law so Planck had to postulate his own new formula. \
+Another thing about the black body is that the radiation of the equal sized areas with the same temperature is equally, independently of their position. \
+Black body radiation is widely known as heat radiation.[\]
+

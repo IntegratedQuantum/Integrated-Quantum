@@ -1,0 +1,27 @@
+﻿[t]Until now you might say light is not a particle, but there is an other experiment that proves the dualism here:\
+The photoelectric effect.\
+If light with a frequency over a certain value (Φ) shines on a material, some of the electrons are released of their orbitals with a certain velocity. These are called photoelectrons then. If the frequency of light undergoes Φ, no photoelectrons are released independently of the intensity of light. According to these facts it is only possible if there is a light particle (photon) that hits an electron and the whole energy (including mass) of the photon is converted into kinetic energy of the electron which partly results in potential energy between the elctron and the nucleus. If the energy of the photon is lower than Φ the electron has not enough energy to convert it into enough potential energy to leave the nucleus. The energy of a photon is defined as:\[\]
+
+[f]E = hf[\]
+
+[t]h is the Planck constant, h = 6.626*10^-34 Js\
+
+f is the frequency of the light.\
+higher frequency → higher energy\
+
+If Φ is the energy needed to release an electron of its orbit (work function). We can calculate the kinetic energy of the electron:\[\]
+
+[f]E = hf-Φ[\]
+
+[t]To calculate the velocity we just need to use E = 0.5 m v^2 :\[\]
+[f]0.5m_e v^2 = hf-Φ[\]
+
+[f]→   v = {(hf-Φ)^0.5 }/{(0.5m_e )^0.5 }[\]
+
+[t]m_e  is the mass of an electron, m_e  = 9.1093835611×10^−31 kg \
+
+But whats the value of Φ? The value of Φ is different for every element and can be found easily. For sodium it is for example:\[\]
+
+[f]Φ_Na  = 496 {kJ}/{mol}  = 2.987*10^-23 J[\]
+
+[t]And that proves that light has wave and particle properties, too.\[\]

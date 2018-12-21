@@ -1,0 +1,15 @@
+﻿[t]The uncertainty principle introduced by Werner von Heisenberg simply describes that 2 complementary observables cannot be determined both with
+a choosen accuracy.\
+
+A particle with the given wave function of Ae^ikx  has a momentum of kħ (see "Operators"), but the position of the particle is completly undefined:\
+
+the chance of finding the particle at x/λ equals to the chance at (2π+x)/λ. So the chance doesn't change over distance. Now you could define the wave function to create a single peak at one value of x which is possible by combining infinite sine/cosine waves.\
+
+Now there is a particle with a hundredpercently defined position. But for each sine/cosine function added, the particle is in a superposition
+of n different momentums, where n is the number of sine/cosine functions.[\]
+
+[f]ΔpΔs >= 0.5ħ[\]
+
+[f]ħ = {h}/{2π}[\]
+
+[t]Δp and Δs are the average uncertainties of the position and the momentum from their average value. If one of the two equals to 0 the average uncertainty of the other value must get infinite to remain the statement true. The uncertainty principle can also be applied to other pairs of observables(like time and energy). For example in an atom you could determine the position of the electron pretty precisely but then would not have an exact value of the momentum.[\]
