@@ -3,8 +3,8 @@
 [f]Ψ_1  = Ae^cx  + Be^-cx [\]
 [f]Ψ_2  = Ce^ikx  + De^-ikx [\]
 [f]Ψ_3  = Ee^cx  + Fe^-cx [\]
-[f]k = {(2m(E-V))^0.5 }/{ħ}[\]
-[f]c = {(-2m(E-V))^0.5 }/{ħ} = {(2m(V-E))^0.5 }/{ħ}[\]
+[f]k = {√2m(E-V)√}/{ħ}[\]
+[f]c = {√-2m(E-V)√}/{ħ} = {√2m(V-E)√}/{ħ}[\]
 [t]The positive exponents describe a movement in positive x-direction, the negative exponents describe a movement in negative x-direction. In the quantum well the particle can move in both directions because it gets reflected from the potential barriers, but since the barriers don't end, the particle will never get reflected inside the barriers and move only in the direction they entered the barrier. So the constants A and F are 0:
 [f]→ Ψ_1  = Be^-cx [\]
 [f]→ Ψ_3  = Ee^cx [\]
