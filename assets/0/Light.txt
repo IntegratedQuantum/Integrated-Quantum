@@ -8,10 +8,10 @@
 [f]p = {h}/{λ}[\]
 
 [t]So a photon contains a relativistic mass bigger than zero. The momentum of photons is needed for the concept of solar sailing (which was practical used first in 2010 on the space-probe IKAROS). The problem is that the relativistic mass m is:[\]
-[f]m = {m_0 }/{(1-v^2 c^-2 )^0.5 }[\]
+[f]m = {m_0 }/{√1-v^2 c^-2 √}[\]
 
 [t]m_0  is the mass of the object if its velocity equals to 0 known as rest mass. For photons m is:[\]
-[f]m = {m_0 }/{(1-c^2 c^-2 )^0.5 }[\]
+[f]m = {m_0 }/{√1-c^2 c^-2 √}[\]
 
 [f]m = {m_0 }/{0}[\]
 

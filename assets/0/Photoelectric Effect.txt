@@ -16,7 +16,7 @@ If Φ is the energy needed to release an electron of its orbit (work function). 
 [t]To calculate the velocity we just need to use E = 0.5 m v^2 :\[\]
 [f]0.5m_e v^2 = hf-Φ[\]
 
-[f]→   v = {(hf-Φ)^0.5 }/{(0.5m_e )^0.5 }[\]
+[f]→   v = {√hf-Φ√}/{√0.5m_e √}[\]
 
 [t]m_e  is the mass of an electron, m_e  = 9.1093835611×10^−31 kg \
 
