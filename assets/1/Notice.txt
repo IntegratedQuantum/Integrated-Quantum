@@ -1,0 +1,2 @@
+[t] The following chapters about mathematical foundation are not designed to teach you the math needed for quantum physics. They are more made to give you a rough overview about the topics which is needed to understand the app. For each topic one could make a whole app. If you don't understand one of these topics look in the internet for further explanation. In the these chapters most things will stay unproven.\
+Not for every chapter a foundation is needed.\[\]

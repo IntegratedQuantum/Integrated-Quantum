@@ -1,0 +1,10 @@
+[t]Indefinite integration is the process of calculating an antiderivative or primitive function of a given function. If you differentiate the primitive function of any function you get the function itself:[\]
+	[f]∫{df}/{dx} = f[\]
+[t]The integration of a function can be reached by simply calculating the area below the function graph between 0 and the point x:[\]
+[p]1/integralarea.png[\]
+[t]Because this is just the reverse process of differentiation you can use the rules of differentiation in reverse direction:[\]
+	[f](ax^n +c)' = anx^n-1 [\]
+	[f]∫anx^n-1  = ax^n +c[\]
+	[f]→ ∫ax^n  = +c{ax^n+1 }/{n+1}[\]
+[t]Its the same procedure with the the other rules. The important thing is that during integration always an unknown constant remains which can being determined by known conditions of the function. Each integration adds a new constant.\Definite integration creates a number instead of a function. The definite integration shows the area of a function in a given interval(a|b).
+If F(x) is the primitive function of the function you need the definite integral, the definite integral is given as F(b)-F(a). There are some simpler trics for definite integration, but they are not needed here.[\]
