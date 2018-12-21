@@ -17,6 +17,7 @@ public class IntelligentText extends Component {
         integral,
         operator,
         link,
+        bigger,
     }
     private int x;
     private int y;

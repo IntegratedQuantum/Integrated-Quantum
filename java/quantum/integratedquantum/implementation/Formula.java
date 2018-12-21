@@ -46,6 +46,19 @@ public class Formula extends Component {
                 current = new StringBuilder();
                 mode = normal;
             }
+            else if(text.charAt(i) == '√') {
+                words.add(new Word(current.toString(), mode, measureText(paint, current.toString(), mode)));
+                StringBuilder root = new StringBuilder();
+                i++;
+                for(; i < text.length(); i++) {
+                    if(text.charAt(i) == '√')
+                        break;
+                    root.append(text.charAt(i));
+                }
+                words.add(new Root(root.toString(), paint));
+                current = new StringBuilder();
+                mode = normal;
+            }
             else {
                 if(mode == normal) {
                     if(text.charAt(i) == '^') {

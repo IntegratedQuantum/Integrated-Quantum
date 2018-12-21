@@ -122,6 +122,11 @@ public class Graphics {
             this.drawLine(x-4, y-17, x, y-21, paint);
             this.drawLine(x+4, y-17, x, y-21, paint);
         }
+        else if(type == IntelligentText.Type.bigger) {
+            paint.setTextSize(paint.getTextSize()*(float)1.25);
+            canvas.drawText(text, x, y, paint);
+            paint.setTextSize(paint.getTextSize()/(float)1.25);
+        }
         else {
             paint.setTypeface(Typeface.create(Typeface.DEFAULT, Typeface.ITALIC));
             this.drawString(text, x, y, paint);

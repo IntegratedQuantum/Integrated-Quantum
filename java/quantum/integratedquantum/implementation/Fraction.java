@@ -28,6 +28,19 @@ public class Fraction extends Word {
                         top.add(new Word(current.toString(), mode, measureText(paint, current.toString(), mode)));
                         current = new StringBuilder();
                         mode = normal;
+                    }
+                    else if(text.charAt(i) == '√') {
+                        top.add(new Word(current.toString(), mode, measureText(paint, current.toString(), mode)));
+                        StringBuilder root = new StringBuilder();
+                        i++;
+                        for(; i < text.length(); i++) {
+                            if(text.charAt(i) == '√')
+                                break;
+                            root.append(text.charAt(i));
+                        }
+                        top.add(new Root(root.toString(), paint));
+                        current = new StringBuilder();
+                        mode = normal;
                     } else {
                         if (mode == normal) {
                             if (text.charAt(i) == '^') {
@@ -51,7 +64,20 @@ public class Fraction extends Word {
                     }
                     break;
                 case 1:
-                    if (mode == normal) {
+                    if(text.charAt(i) == '√') {
+                        bot.add(new Word(current.toString(), mode, measureText(paint, current.toString(), mode)));
+                        StringBuilder root = new StringBuilder();
+                        i++;
+                        for(; i < text.length(); i++) {
+                            if(text.charAt(i) == '√')
+                                break;
+                            root.append(text.charAt(i));
+                        }
+                        bot.add(new Root(root.toString(), paint));
+                        current = new StringBuilder();
+                        mode = normal;
+                    }
+                    else if(mode == normal) {
                         if (text.charAt(i) == '^') {
                             bot.add(new Word(current.toString(), mode, measureText(paint, current.toString(), mode)));
                             current = new StringBuilder();
