@@ -1,0 +1,22 @@
+[r]Requirements: ĦOperatorsĦ2ĦOperatorsĦ[\]
+[t]The uncertainty principle introduced by Werner von Heisenberg simply describes that 2 complementary observables cannot being determined both with a choosen accuracy.\
+A particle with the given wave function of Ae^ikx  has a momentum of kħ(see "Operators"), but the position of the particle is completly undefined:\
+the chance of finding the particle at x/λ equals to the chance at (2π+x)/λ. So the chance doesn't change over distance. Now you could define the wave function to create a single peak at one value of x which is possible by combining infinite sine/cosine waves.\
+Now there is a particle with hundredpercently defined position. But for each sine/cosine function added, the particle is in a superposition of n different momentums, where n is the number of sine/cosine functions.[\]
+	[f]ΔpΔs >= 0.5ħ[\]
+[t]Δp and Δs are the average uncertainties of the position and the momentum from their average value. If one of the two equals to 0 the average uncertainty of the other value must get infinite to remain the statement true.[\]
+[t]The uncertainty principle can also be applied to other pairs of observables(like time and energy). If the following equation is false(³O is a general operator) two observables behave uncertain to each other:[\]
+	[f]³O_1 (³O_2 Ψ) = ³O_2 (³O_1 Ψ)[\]
+[t]On the left site Ô_2 is first operated and then Ô_1 . On the right it is operated in the other direction. Observables for which this equation returns false are called complementary: the operators of the observables don't commutate. The commutator(which indicates how far the operators are away from commutating)is defined as:[\]
+	[f][³O_1 , ³O_2 ] = ³O_1 ³O_2 -³O_2 ³O_1 [\]
+[t]The operator of the position(³s) is defined as the product of x with the wave function. You can see the definition of ³p in "Operators". So the commutator of position and momentum is defined as:[\]
+	[f][³s, ³p_x ]Ψ = ³s³p_x Ψ - ³p_x ³sPSI[\]
+	[f]³s³p_x Ψ = {x ħ Ψ }/{i dx}[\]
+	[f]³p_x ³sΨ = {ħ dxΨ}/{i dx}[\]
+	[f]³p_x ³sΨ = +ħi^-1 Ψ{ħx dΨ}/{i dx}[\]
+	[f][³s, ³p_x ]Ψ = {-ħΨ}/{i}[\]
+	[f][³s, ³p_x ]Ψ = iħΨ[\]
+	[f][³s, ³p_x ] = iħ[\]
+[t]The product of average uncertainty of 2 observables is defined as half the value of the commutator:[\]
+	[f]ΔO_1 ΔO_2 >= 0.5*|[³O_1 , ³O_2 ]|[\]
+[t]In case of momentum and position the product is defined as 0.5ħ.[\]

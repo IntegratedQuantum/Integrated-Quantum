@@ -1,0 +1,17 @@
+[t]The schrödinger equation is defined as:[\]
+	[f]³HΨ = EΨ[\]
+[t]³H is an operator of Ψ and E is an observable and the eigenvalue of Ψ. So ³H is the operator to determine the energy of a matter wave.[\]
+	[f](operator)Ψ = (eigenvalue)Ψ[\]
+[t]For every observable there is a operator. If operator and Ψ are known the observable for the operator can be determined.\
+example:\
+The operator of momentum(³p_x ) is defined as:[\]
+	[f]³p_x  = {ħ}/{i} {d}/{dx}[\]
+[t]If[\]
+	[f]Ψ = Ae^ikx [\]
+[t]then[\]
+	[f]³p_x Ψ = {ħ}/{i} {dΨ}/{dx}[\]
+	[f]³p_x Ψ = {ħ}/{i} {d(Ae^ikx )}/{dx}[\]
+	[f]³p_x Ψ = {ħAike^ikx }/{i}[\]
+	[f]³p_x Ψ = ħkAe^ikx [\]
+	[f]³p_x Ψ = ħkΨ[\]
+	[f]→p_x  = ħk[\]

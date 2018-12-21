@@ -1,0 +1,4 @@
+[t]The wave function is a function of a particle wave. It has the symbol psi:[\]
+[p]quantum.png[\]
+[t]The wave function shows the quantum states of n > 0 particles including interference between the functions. The wave function can be obtained using schrödinger equation(next chapter). The wave function is complex. So it has an imaginary and a real part. The square of the value of Ψ(|Ψ|^2 ) shows the chance of finding a particle in a region of space. To get comparable results the integration of |Ψ|^2  over the complete space(or over a small part of space, if the wavefunction don't reaches zero for infinite x/y/z-values) must equal to 1.\For a particle moving through a room with a potential of 0 along the x-axis the chance of finding the particle in a defined area around any x is equal.\
+The wave function is a harmonic(continouus and edgeless) function so the wave function and its first derivative must be continouus.[\]

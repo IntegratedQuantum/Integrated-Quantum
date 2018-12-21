@@ -1,0 +1,18 @@
+[r]Requirements: ĦTunnel EffectĦ0ĦTunnel EffectĦ, Ħconstant PotentialĦ2ĦConstant PotentialĦ[\]
+[d]2[\]
+[t]The function of potential can be divided into 3 sections of Ħconstant PotentialĦ2Ħconstant potentialĦ. The constant in the first and second wave function can be formed by assuming a potential of zero:[\]
+	[f]Ψ_1 = Ae^ikx +Be^-ikx [\]
+	[f]k = {(2mE_kin )^0.5 }/{ħ}[\]
+[t]In the barrier the potential is bigger than the particles energy. So the term (E-V) gets negative. Because of that the term in the root gets negative. Now we can include the i which is in the exponent of the general solution into the root and the minus is removed. This leads to a simpler exponential function:[\]
+	[f]Ψ_2  = Ce^cx +De^-cx [\]
+	[f]c = {-(2m(E-V))^0.5 }/{ħ}[\]
+[t]The third function is again in an area with no potential. So the constant k is still the same as in "1". Therefor the function is the same with new constants E and F:[\]
+	[f]Ψ_3  = Ee^ikx +Fe^-ikx [\]
+[t]Now there are 6 unknown constants. The total wave function and its first derivative function must be continuous which is important at the walls of the barrier(x_1  = 0, x_2  = l). So there are 4 equation that must be true:[\]
+	[f]A+B = C+D[\]
+	[f]Ce^cl +De^-cl  = Ee^ikl +Fe^-ikl [\]
+	[f]ikA-ikB = cC-cD[\]
+	[f]cCe^cl -cDe^-cl  = ikEe^ikl -ikFe^-ikl [\]
+[t]The term Fe^-ikx  just means a movement to negative x. Since in the region of x > l there is now further wave-source or barrier that would explain a wave moving in negative x-direction the constant F = 0. So there are only 5 constants that must get solved with four equation which is impossible. So another condition is needed.\
+Every wave function needs to be normalized to ensure an overall probability amplitude of 1. If you have a function whose amplitude does not converge to 0 for x → ∞ or x → -∞ then you can either normalize a small interval or just choose one of the 5 constants.\
+The Tunnel chance is proportional to |A|^2 *|E|^-2  and reduces exponentially with the width of the barrier and the square root of the mass of the particle.[\]
