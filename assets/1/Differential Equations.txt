@@ -32,7 +32,7 @@ Now we can bring the equation into another form which makes it easier to solve i
 	[f]a+k^2  = 0[\]
 	[f]k^2  = -a[\]
 [t]Now you need to root the equation and get k:[\]
-	[f]k = ±(-a)^0.5 [\]
+	[f]k = ±√-a√[\]
 [t]For a = 1 the root of -a equals to i the imaginary unit.[\]
 	[f]k = ±i[\]
 	[f]f_1  = c_1 e^ix [\]
