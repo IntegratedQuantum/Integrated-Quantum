@@ -1,0 +1,13 @@
+[r]This special text will only be displayed if the user activated Requierements.[\]
+[t]This is a normal text with a ĦFileĦ2ĦHyperlinkĦ linked to assets/2/File.txt.\Now the text continues in a new line[\]
+This sentence will not get displayed.
+The following formula displays the integral the root of Ψ which is the root of Ψ³.
+[f]∫√Ψ√ dΨ = √Ψ^3 √[\]
+The following formula displays ⅜ as a fraction. Roots can also be displayed in a fraction.
+[f]{3}/{8} = {√9√}/{√64√}[\]
+The following shows the diagramm number 1 which is defined in the source code.
+[d]1[\]
+This is an animation:
+[a]xyz[\]
+In the file xyz.txt the number of frames and the time per frame needs to be defined as :"numberofframes\timeperframeinms". There need to be the pictures xyz1.png to xyznumberofframes.png.
+[t]²This text is "italic".² Operators need to have a ^ above them. ³c → ĉ[\]
