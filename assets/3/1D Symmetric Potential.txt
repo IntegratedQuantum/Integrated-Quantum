@@ -5,7 +5,7 @@
 [t]n is the number of the interval starting at n = 0 and Δx is the width of each interval. So every interval assumes the potential of the middle of the interval to be constant over the whole interval. At the transition point between 2 intervals (n*Δx) the corresponding wave functions must have equal values and equal derivatives:[\]
 [f]A_n-1 *e^k(n-1)*x  + B_n-1 *e^-k(n-1)*x = A_n *e^k(n)*x  + B_n *e^-k(n)*x [\]
 [f]A_n-1 k(n-1)*e^k(n-1)*x  - B_n-1 k(n-1)*e^-k(n-1)*x = A_n k(n)*e^k(n)*x  - B_n k(n)*e^-k(n)*x [\]
-[t]Assuming A_0  and B_0  are known every following A and B can be calculated from the previous ones. If the equations above are solved for A_n  and B_n  then the needed equations for the numerical solution are yielded:[\]
+[t]Assuming A_0  and B_0  are known every following A and B can be calculated from the previous ones. If the linear equation system above is solved for A_n  and B_n  then the needed equations for the numerical solution are yielded:[\]
 [f]A_n  = 0.5*({A_n-1 e^k(n-1)*x }/{e^k(n)*x } *(1 + {k(n-1)}/{k(n)}) + {B_n-1 e^-k(n-1)*x }/{e^k(n)*x } *(1 - {k(n-1)}/{k(n)}))[\]
 [f]B_n  = (A_n-1 e^k(n-1)*x  + B_n-1 e^-k(n-1)*x  - A_n e^k(n)*x )*e^k(n)*x [\]
 [t]There is just one problem: A_0  and B_0  are not known. This problem can be solved by just assuming symmetry. If the potential function is symmetric then the wave function has to be symmetric or antisymmetric. That means:[\]
