@@ -24,14 +24,14 @@ class MenuScreen extends Screen implements ActionListener {
             {"Introduction", "Black Body Radiation", "Interference", "Wave Function", "Superposition", "Wave Particle Dualism I", "Wave Particle Dualism II", "Tunnel Effect", "Uncertainty Principle", "Particles", "Light", "Pauli Exclusion", "Spin", "Vacuum Fluctuation", "Quantum Entanglement", "Interpretations"},
             {"Notice", "Differentiation", "Integration", "Imaginary Numbers", "Complex Numbers", "Differential Equations", "Partial Differential Equations"},
             {"Schrödinger Equation", "Basic Calculations I", "Quantum Well", "Quantum Well II", "Basic Calculations II", "Basic Calculations III", "Operators", "Superposition", "Wave Particle Dualism II", "Tunnel Effect", "Uncertainty Principle", "Electronvolt", "Pauli Exclusion", "Spin"},
-            {"Numerical Approach I"},
+            {"Numerical Approach I", "Numerical Solution I"},
             {"Settings"},
         };
         subName = new String[][]{
             {"", "", "", "", "", "Double Slit Experiment", "Photoelectric Effect", "", "", "", "", "", "", "", "", ""},
             {"", "", "", "", "", "", ""},
             {"", "constant Potential", "", "Finite Potential Well", "non-radial symmetric Potential", "radial symmetric Potential", "", "", "Photoelectric Effect", "", "", "", "", ""},
-            {"1D Symmetric Potential"},
+            {"1D Symmetric Potential", "1D Symmetric Potential "},
             {" "},
         };
         String [] name2 = {"Principles of Quantum Physics", "Mathematical Foundation", "Quantum Principle Calculations", "Numerical Solution", "Extras"};
