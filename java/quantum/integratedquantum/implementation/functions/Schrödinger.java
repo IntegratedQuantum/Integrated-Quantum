@@ -159,6 +159,9 @@ public class Schrödinger extends Component implements ActionListener {
         }
         E = 1.0e-200;
         double factor = 1000;
+        boolean changed = false;
+        l /= 20;
+        scale *= 20;
         while(true) {
             E *= factor;
             k(0);
@@ -174,6 +177,11 @@ public class Schrödinger extends Component implements ActionListener {
                 if(Psi[j]*Psi[j-1] < 0) {
                     nulls += 2;
                 }
+            }
+            if(!changed && factor < 1.1) {
+                l = this.l;
+                scale /= 20;
+                changed = true;
             }
             if(factor == 1)
                 break;
