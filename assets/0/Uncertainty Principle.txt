@@ -8,8 +8,8 @@ the chance of finding the particle at x/λ equals to the chance at (2π+x)/λ. S
 Now there is a particle with a hundredpercently defined position. But for each sine/cosine function added, the particle is in a superposition
 of n different momentums, where n is the number of sine/cosine functions.[\]
 
-[f]ΔpΔs >= 0.5ħ[\]
+[f]Δp Δx >= 0.5ħ[\]
 
 [f]ħ = {h}/{2π}[\]
 
-[t]Δp and Δs are the average uncertainties of the position and the momentum from their average value. If one of the two equals to 0 the average uncertainty of the other value must get infinite to remain the statement true. The uncertainty principle can also be applied to other pairs of observables(like time and energy). For example in an atom you could determine the position of the electron pretty precisely but then would not have an exact value of the momentum.[\]
+[t]Δp and Δx are the average uncertainties of the position and the momentum from their average value. If one of the two equals 0 the average uncertainty of the other value must get infinite to remain the statement true. The uncertainty principle can also be applied to other pairs of observables(like time and energy). For example in an atom you could determine the position of the electron pretty precisely but then would not have an exact value of the momentum.[\]
