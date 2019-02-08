@@ -1,0 +1,49 @@
+
+[t] One very important gut not too difficult equation in quantum mechanichs is Bell`s Theorem. It disproves tze existence of so called hidden variables(link). \
+It describes tue outcome of an experiment. Luckily the experiment does not really have to be done. The idea is that a pair of entangled photons is emitted by a central source of light.
+Special atomic processes can be used as that kind of a light source. The two entangled photons fly away from each other in opposite directions.
+In an equal distances there are two polarizers, they are set in different directions. \
+Imagine every photon would habe three hidden variables A, B and C for the three different polarisations. The variable A means that the photon passes through a polarizer which is polarised with the angle ϕ_A . And ϕ_B  for B and ϕ_C for C.
+If a photon is polarised with an angle of 0° it will get absorbed with a probability of 100% (neglecting tue tunnel effect(link)) by a polarizer with an polarisation-angle of 90°.
+The question is how high the probability of absorbing is for an angle different to 90°.
+Experiments show that the probability of passing the polarizer with a an angle difference of Δϕ between the direction of polarisation and the angle of the polarizer equals: [\]
+
+[f] p(Δϕ) = {1}/{2} cos^2 (Δϕ)                       (1) [\]
+
+[t] The basis for Bell`s Theorem is that a photon passes through both polarizers A and B. Which is described by p(A, B). If the pair of photons passes through A and B, the probability does not change based on its passing or not passing through C (!C meaning not passing through C): [\]
+
+[f] p(A, B) = p(A, B, C) + p(A, B, !C) [\]
+
+[t] If we add the following probabilities to the right hand side of the equation, this side will be bigger equal than the other side then, singe the added probabilities are not 0: [\]
+
+[f] p(A, B) ≤ p(A, B, C) + p(A, B, !C) + p(A, !B, C) + p(!A, B, !C) [\]
+
+[t] This can be summarized as: [\]
+
+[f] p(A, B) ≤ p(A, C) + p(B, !C) [\]
+
+[t] With: [\]
+
+[f] p(B, !C) = p(B) - p(B, C) = {1}/{2} - {1}/{2} cos^2 (ϕ_C -ϕ_B )  [\]
+
+[t] We now make up some values for ϕ_A , ϕ_B  and ϕ_C . For example: ϕ_A  = 0°, ϕ_B  = 30° and ϕ_C  = 60°. This then yields with (1): [\]
+
+[f] {1}/{2} cos^2 (ϕ_B -ϕ_A ) ≤ {1}/{2} cos^2 (ϕ_C -ϕ_A ) + {1}/{2} (1 - cos^2 (ϕ_B -ϕ_C )) [\]
+
+[f] {1}/{2} cos^2 (30°) ≤ {1}/{2} cos^2 (60°) + {1}/{2} (1 - cos^2 (30°)) [\]
+
+[f] {3}/{8} ≤ {1}/{8} + {1}/{8} [\]
+
+[t] This is an obvious contradiction. The conclusion is the non-existence of hidden variables. [\]
+
+
+
+
+
+
+
+
+
+
+
+
