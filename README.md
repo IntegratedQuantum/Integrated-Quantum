@@ -1,8 +1,10 @@
 # Integrated-Quantum
 The quantum physics app!
 
+
 If you want to download the app you can do it here:
 http://www.mediafire.com/file/l2fl2awo118tg3g/app-debug.apk/file
+
 
 If you want to test changes you made you will need to do the following steps:
 
