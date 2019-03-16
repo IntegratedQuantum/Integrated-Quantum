@@ -2,10 +2,11 @@ package quantum.integratedquantum.implementation;
 
 import quantum.integratedquantum.implementation.functions.BlackBody;
 import quantum.integratedquantum.implementation.functions.Differentiation;
+import quantum.integratedquantum.implementation.functions.Schrödinger;
 import quantum.integratedquantum.implementation.functions.Tunnel;
 
 public class Function {
-    private static int[] heights = {700, 500, 300};
+    private static int[] heights = {700, 500, 300, 1000};
     public static Component getFunction(int x, int y, Component parent, int n) {
         switch(n) {
             case 0:
@@ -14,6 +15,8 @@ public class Function {
                 return new Differentiation(x, y);
             case 2:
                 return new Tunnel(y);
+            case 3:
+                return new Schrödinger(y);
         }
         return null;
     }
