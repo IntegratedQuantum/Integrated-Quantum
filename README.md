@@ -1,6 +1,8 @@
 # Integrated-Quantum
 The quantum physics app!
 
+This is not just a normal app. Integrated Quantum also contains an algorithm to solve the schrödinger equation numerically(currently only available for a 1D symmetric potential).
+
 
 If you want to download the app you can do it here(the file usually includes the latest pull requests I made):
 http://www.mediafire.com/file/l2fl2awo118tg3g/app-debug.apk/file
