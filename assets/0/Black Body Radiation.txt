@@ -1,5 +1,5 @@
 ﻿[t]A black body is a theoretical object which absorbs all the incident electromagnetic radiation. This naturally heats up the body, to lower the temperature again the body emits electomagnetic radiation (visible and infrared). By the loss of the energy the body cools down again. There is a pretty easy formula to calculate the radiance with the position (where the "beam" got emitted), the direction of the radiation and the wavelength:[\]
-	[f]L(λ, T) = {8πhc}/{λ^5 *(e^hc/λkT -1)}[\]
+	[f]L(λ, T) = {8&phc}/{λ^5 *(e^hc/&lkT -1)}[\]
 h=6.626*10^-34 Js \
 c represents the speed of light, c=299792.458 kms^-1 \
 λ is the wavelength. Every color has its own spectrum of wavelengths. \

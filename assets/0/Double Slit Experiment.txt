@@ -6,9 +6,9 @@ The double slit experiment uses the phenomenon of diffraction: waves bend if the
 [t]In the double slit experiment there are 2 slits which both create the pattern above:\[\]
 [a]double[\]
 
-[t]These 2 waves interfere with each other. If you put a wall in a distance behind the slits, an interference pattern is created. The pattern changes if the distance to the wall or the distance between the 2 slits is changed. If you know the wave function which we will introduce later, you can calculate the intensity of light seen on the wall with its wave function:\[\]
+[t]These 2 waves interfere with each other. If you put a wall in a distance behind the slits, an interference pattern is created. The pattern changes if the distance to the wall or the distance between the 2 slits is changed. If you know the wave function which we will introduce later, you can calculate the intensity of light seen on the wall with its wave function &P:\[\]
 
-[f]I(x) = |Ψ(x)|^2[\]
+[f]I(x) = |&Y(x)|^2[\]
 
 [t]The function graph would look like the picture in top of this app. This experiment proves that light behaves like a wave which is widely known. But what would happen if we use elctrons instead of light. In classical physics electron are particles. If we would perform the double slit experiment to a particle we would expect to see this:\[\]
 [a]doublep[\]
