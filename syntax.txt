@@ -2,7 +2,8 @@
 [t]This is a normal text with a ĦFileĦ2ĦHyperlinkĦ linked to assets/2/File.txt.\Now the text continues in a new line[\]
 This sentence will not get displayed.
 The following formula displays the integral the root of Ψ which is proportional to the root of Ψ³.
-[f]∫√Ψ√ dΨ = k*√Ψ^3 √[\]
+[f]∫√&Y√ d&Y = k*√&Y^3 √ + C[\]
+As you can see greek letters are displayed with "&" + 'normal letter'. This system aims to be understood easily(a→α, b→β,…), but if you are unsure you can see the letter–greek letter–assignment–table in the sourcecode(TextScreen.java).
 The following formula displays ⅜ as a fraction. Roots can also be displayed in a fraction.
 [f]{3}/{8} = {√9√}/{√64√}[\]
 The following shows the diagramm number 1 which is defined in the source code.

@@ -2,12 +2,12 @@
 	[f]E = hf[\]
 [t] h is the Planck constant, h = 6.626*10^-34 Js\
 f is the frequency of the light.\higher frequency → higher energy\
-If Φ is the energy needed to release an electron of its orbit(ionization energy) We can calculate the kinetic energy of the electron:\[\]
-	[f]E = hf-Φ[\]
+If &F is the energy needed to release an electron of its orbit(ionization energy) We can calculate the kinetic energy of the electron:\[\]
+	[f]E = hf-&V[\]
 [t] To calculate the velocity we just need to use E = 0.5mv^2 :\[\]
-	[f]0.5m_e v^2 = hf-Φ[\]
-	[f]→   v = {√hf-Φ√}/{√0.5m_e √}[\]
+	[f]0.5m_e v^2 = hf-&F[\]
+	[f]→   v = {√hf-&V√}/{√0.5m_e √}[\]
 [t] m_e  is the mass of an electron, m_e  = 9.1093835611×10^−31 kg\
-But whats the value of Φ? The value of Φ is different for every element and can be found easily. For sodium it is for example:\[\]
-	[f]Φ_Na  = 496 {kJ}/{mol} = 2.987*10^-23 J[\]
+But whats the value of &F? The value of &V is different for every element and can be found easily. For sodium it is for example:\[\]
+	[f]&F_Na  = 496 {kJ}/{mol} = 2.987*10^-23 J[\]
 [t] And that proves that light has wave and particle properties, too.\[\]

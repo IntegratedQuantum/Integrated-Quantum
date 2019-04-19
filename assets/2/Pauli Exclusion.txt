@@ -2,13 +2,13 @@
 To express this phenomena in quantum physical "language" we can say, that the wavefunctions of the fermions in the system have to be antisymmetric to each other. One starting point for this principle is the fact, that if we exchange to (really) identical fermions just the compute-sign in front of the function changes (the function gets antisymmetrical), but if we do the same thing to bosons nothing changes with the wavefunction. So as we see here the pauli exclusion does not apply to bosons.\
 This means, that the wavefunction of a whole quantum system (not necessary an atomic orbital) including n identical fermions has to be totally antisymmetric (so the absolute value of the function stays the same) to every exchange (permutation) P you make with two particles.[\]
 [f]
-Ψ(r_1, s_1 ;...,r_n ,s_n ) = -r(P Ψ)(r_1 ,s_1 ;...,r_n ,s_n )[\]
+&Y(r_1, s_1 ;...,r_n ,s_n ) = -r(P Ψ)(r_1 ,s_1 ;...,r_n ,s_n )[\]
 [t]r is the position, s is the spin and P the operator of permutation.
 If you permutate the "first" and the "second" particle you can write it as:[\]
-[f](P Ψ)(r_1 ,s_1 ;r_2 ,s_2 ;...) := Ψ(r_2 ,s_2 ;r_1 ,s_1 ;...)[\]
+[f](P &Y)(r_1 ,s_1 ;r_2 ,s_2 ;...) := &Y(r_2 ,s_2 ;r_1 ,s_1 ;...)[\]
 [t]For example in an atomic orbital we have two electrons, which we at first can not keep apart.\[\]
 [f](r_1 ,s_1 ) = (r_2 ,s_2 )[\]
-[f]Ψ(r_1 ,s_1 ;r_2 ,s_2 ) = -Ψ(r_2 ,s_2 ;r_1 ,s_1 )[\]
-[f]Ψ(r_1 ,s_1 ;r_1 ,s_1 ) = -Ψ(r_1 ,s_1 ;r_1 ,s_1 )[\]
-[f]→ Ψ(r_1 ,s_1 ;r_1 ,s_1 ) = 0[\]
+[f]&Y(r_1 ,s_1 ;r_2 ,s_2 ) = -&Y(r_2 ,s_2 ;r_1 ,s_1 )[\]
+[f]&Y(r_1 ,s_1 ;r_1 ,s_1 ) = -&Y(r_1 ,s_1 ;r_1 ,s_1 )[\]
+[f]→ &Y(r_1 ,s_1 ;r_1 ,s_1 ) = 0[\]
 [t]So the square of this wavefunction, which is the probability for this to happen is 0.\

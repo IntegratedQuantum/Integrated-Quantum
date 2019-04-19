@@ -4,12 +4,12 @@
 Another example: If we execute the same experiment under the same conditions a lot of times with objects from the macroworld, like a bullet we expect the same result every time and with a bullet we always get the same result. But if we use electrons instead we also expect one result every time but because of quantum superposition and the fact that electrons are quantum objects we gt different results. We can see this at the double slit experiment. 
 
 The wavefunction in superposition is calculated through adding up every possible wavefunction. The given wavefunction always shows this sum. If you have the wave function:[\]
-	[f]Ψ = Ae^ikx +Be^-ikx [\]
+	[f]&Y = Ae^ikx +Be^-ikx [\]
 [t] There are 2 different functions(if A and B don't equal to 0) showing 2 superposition states of momentum. You can calculate the 2 momentum using the operator of momentum:[\]
 	[f]³p = {ħ}/{i} {d}/{dx}[\]
-	[f]³pΨ = pΨ[\]
-	[f]Ψ_1  = Ae^ikx [\]
-	[f]Ψ_2  = Be^-ikx [\]
-	[f]³pΨ_1  = = ħkΨ_1 {ħikAe^ikx }/{i}[\]
-	[f]³pΨ_2  = = -ħkΨ_1 {-ħikBe^ikx }/{i}[\]
+	[f]³p&Y = p&Y[\]
+	[f]&Y_1  = Ae^ikx [\]
+	[f]&Y_2  = Be^-ikx [\]
+	[f]³p&Y_1  = = ħk&Y_1 {ħikAe^ikx }/{i}[\]
+	[f]³p&Y_2  = = -ħk&Y_1 {-ħikBe^ikx }/{i}[\]
 [t] The superpostion of momentum can be calculated easily. For other properties you can do it the same with another operator, but the amount of other superposition is not that easy to calculate.[\]
