@@ -1,0 +1,47 @@
+[t] For the schroedinger equation with not constant potential we need to solve a rather difficult differential equation (requirements). As a reminder the schroedinger equation in one dimension is: [\]
+
+[f] - {ħ^2}/{2m}∇^2 ψ(x) + V(x) ψ(x) = E ψ [\]
+
+[t] Because we know, that the wavefunction is basically the sum of a lot of sines and cosines, which we can due to Euler's formula represent as an exponential function. But to include a more broad range of functions we decided to assume the wavefunction looks like the following: [\]
+
+[f] ψ(x) = A*e^f(x) * g(x) [\]  
+
+[t] f and g are functions that are not yet defined. We now want to insert our ψ in the schroedinger equation, but for that we have to setermine the second derivative for ψ: [\]
+
+[f] ψ'(x) = A*e^f(x) *g'(x) + f'(x)*A*e^f(x) *g(x) [\]
+
+[f] ψ'(x) = A*e^f(x) (g'(x) + f'(x)*g(x)) [\]
+
+[f] ψ''(x) = f'(x)*A*e^f(x) (g'(x) + f'(x)*g(x)) + A*e^f(x)  (g''(x) + f''(x)*g(x) + f'(x)*g'(x)) [\]
+
+[f] ψ''(x) = A*e^f(x) (2*f'(x) g'(x) + (f'(x))^2 *g(x) + g''(x) + f''(x)*g(x)) [\]
+
+[f] ψ''(x) = A*e^f(x) g(x) ({2*f'(x) g'(x) + g''(x)}/{g(x)} + (f'(x))^2 + f''(x)) [\]
+
+[f] ψ''(x) = ψ(x) ({2*f'(x) g'(x) + g''(x)}/{g(x)} + (f'(x))^2 + f''(x)) [\]
+
+[t] We now insert the second order derivative of ψ(x) in to the schroedinger equation: [\]
+ 
+[f] - {ħ^2}/{2m} ψ(x) ({2*f'(x) g'(x) + g''(x)}/{g(x)} + (f'(x))^2 + f''(x)) + V(x) ψ(x) = E ψ(x) [\]
+
+[f] - {ħ^2}/{2m} ({2*f'(x) g'(x) + g''(x)}/{g(x)} + (f'(x))^2 + f''(x)) + V(x) = E [\]
+
+[f] {2*f'(x) g'(x) + g''(x)}/{g(x)} + (f'(x))^2 + f''(x) = {-2m}/{ħ^2} (E - V(x)) [\]
+
+[t] Now you have to find a pair of f(x) and g(x) where that applies to V(x). There usually is an infinte amount of pairs, they represent all different energy levels possible. There are examples in the chapter (link). [\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
